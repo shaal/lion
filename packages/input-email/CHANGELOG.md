@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.13.5
+
+### Patch Changes
+
+- Updated dependencies [8a766644]
+- Updated dependencies [e87b6293]
+  - @lion/form-core@0.15.0
+  - @lion/localize@0.21.0
+  - @lion/input@0.15.3
+  - @lion/validate-messages@0.7.3
+
 ## 0.13.4
 
 ### Patch Changes

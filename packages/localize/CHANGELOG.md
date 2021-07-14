@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.21.0
+
+### Minor Changes
+
+- 8a766644: Make ValidateMixin feedback message wait for localize loadingComplete, to ensure getting the right fieldName if this refers to a localized label.
+
 ## 0.20.2
 
 ### Patch Changes
